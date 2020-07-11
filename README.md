@@ -14,6 +14,7 @@ I'm a senior in highschool who enjoys coding as a hobby and plans to pursue it a
 - :star: [RafaelCenzano.com](https://github.com/RafaelCenzano/rafaelcenzano.com), a simple **Flask** site to display my work
 ### Connect with me:
 - Email: contact@rafaelcenzano.com
-- Linkedin: [Rafael Cenzano](https://www.linkedin.com/in/rafael-cenzano/)
-- Facebook: [Rafael Cenzano](https://www.facebook.com/profile.php?id=100008046498255)
-- Instagram: [raf.py](https://www.instagram.com/raf.py/)
+- Linkedin: [@Rafael Cenzano](https://www.linkedin.com/in/rafael-cenzano/)
+- Facebook: [@Rafael Cenzano](https://www.facebook.com/profile.php?id=100008046498255)
+- Instagram: [@raf.py](https://www.instagram.com/raf.py/)
+- Personal Site: [RafaelCenzano.com](https://rafaelcenzano.com)
