@@ -3,6 +3,7 @@ I'm a senior in highschool who enjoys coding as a hobby and plans to pursue it a
 
 ##  I’m currently working on:
 ### Organizations
+- :low_brightness: [Photon Commerce](https://www.photoncommerce.com), Fintech startup working to automate finances and reduce errors that cost billions a year. (Software Engineer Intern)
 - :cloud: [Hack the Cloud](https://cloud.hackthefog.com), [Hack the Fog's](https://www.hackthefog.com) **online hackathon** in response to the pandemic. (Co-Founder and Co-Director). I'm also currently the Director of the Hack the Fog organization.
 - :computer: [Lowell Dev Club](https://www.lowelldev.club), a [**Hack Club**](https://hackclub.com) at my highschool. (Co-Founder and Co-President)
 - :bust_in_silhouette: [Japantown Youth Leaders](https://jcyc.org/jyl.htm), as a student leader I volunteer at events and create a service project every year resulting in over **100 volunteer hours** every school year.
