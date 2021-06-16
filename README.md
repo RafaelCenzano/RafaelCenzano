@@ -19,4 +19,4 @@ I'm a freshman in college who enjoys coding as a hobby and plans to pursue it as
 ### Past Experiences
 - :computer: [Lowell Dev Club](https://www.lowelldev.club), a [**Hack Club**](https://hackclub.com) at my highschool. (Co-Founder and Co-President)
 - :bust_in_silhouette: [Japantown Youth Leaders](https://jcyc.org/jyl.htm), as a student leader I volunteer at events and create a service project every year resulting in over **100 volunteer hours** every school year.
-- - :school_satchel: [Lowelldev.club](https://github.com/lowell-dev-club/www.lowelldev.club), a **Flask** site developed to provide information on <u>DevClub</u> and uses **Flask** and **Postgres** to allow creation of workshops and shortlinks and to display workshops and display markdown files for workshops.
+- :school_satchel: [Lowelldev.club](https://github.com/lowell-dev-club/www.lowelldev.club), a **Flask** site developed to provide information on <u>DevClub</u> and uses **Flask** and **Postgres** to allow creation of workshops and shortlinks and to display workshops and display markdown files for workshops.
