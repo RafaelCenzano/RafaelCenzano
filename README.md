@@ -1,6 +1,9 @@
 # :snake: Rafael Cenzano :computer:
 I'm a freshman in college who enjoys coding as a hobby and plans to pursue it as a career. I have taken AP and Community College classes for CS and have 6+ months of experience in a software engineer internship.
 
+![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelcenzano&show_icons=true&theme=radical)
+![Top Language's Used](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelcenzano&langs_count=4&layout=compact&theme=radical)
+
 ### Connect with me:
 - Email: contact@rafaelcenzano.com
 - Linkedin: [@Rafael Cenzano](https://www.linkedin.com/in/rafael-cenzano/)
