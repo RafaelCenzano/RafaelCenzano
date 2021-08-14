@@ -12,7 +12,7 @@ I'm a CS major at RPI who enjoys coding as a hobby and plans to pursue it as a c
 - Personal Site: [RafaelCenzano.com](https://rafaelcenzano.com)
 
 ##  I’m currently working on:
-- :mortar_board: [RPI Computer Science](https://science.rpi.edu/computer-science), Working towards a Bachelors of Science in Computer Science at Rensselaer Polytechnic Institute.
+- :mortar_board: [RPI Computer Science](https://science.rpi.edu/computer-science), Working on a Bachelors of Science in Computer Science at Rensselaer Polytechnic Institute.
 ### Organizations
 - :cloud: [Hack the Cloud 2.0](https://cloud.hackthefog.com), [Hack the Fog's](https://www.hackthefog.com) **online hackathon** in response to the pandemic. (Co-Founder and Director). I'm also currently the Director of the Hack the Fog organization.
 ### Projects
