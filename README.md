@@ -16,7 +16,7 @@ I'm a CS major at RPI who enjoys coding as a hobby and plans to pursue it as a c
 ### Organizations
 - :cloud: [Hack the Cloud 2.0](https://cloud.hackthefog.com), [Hack the Fog's](https://www.hackthefog.com) **online hackathon** in response to the pandemic. (Co-Founder and Director). I'm also currently the Director of the Hack the Fog organization.
 ### Projects
-- :hammer: [JYL Toolbox](https://github.com/RafaelCenzano/JYL-site), a site devloped with a **Flask** backend to help connect student leaders together and to give adult leaders a simple one stop website to post content, like upcoming meetings and events.
+- :hammer: [JYL Toolbox](https://github.com/RafaelCenzano/JYL-site), a site developed with a **Flask** backend to help connect student leaders together and to give adult leaders a simple one stop website to post content, like upcoming meetings and events.
 - :star: [RafaelCenzano.com](https://github.com/RafaelCenzano/rafaelcenzano.com), a simple **Flask** site to display my work
 
 ### Past Experiences
