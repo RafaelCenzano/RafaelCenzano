@@ -13,8 +13,8 @@ I'm a CS major at RPI who enjoys coding as a hobby and plans to pursue it as a c
 
 ##  I’m currently working on:
 - :mortar_board: [RPI Computer Science](https://science.rpi.edu/computer-science), Working on a Bachelors of Science in Computer Science at Rensselaer Polytechnic Institute.
+- :computer: [Amazon SDE Intern](https://www.amazon.jobs/en/jobs/1557929/software-development-engineer-internship-summer-2022-us), Working over the summer at Amazon.
 ### Organizations
-- :cloud: [Hack the Cloud 2.0](https://cloud.hackthefog.com), [Hack the Fog's](https://www.hackthefog.com) **online hackathon** in response to the pandemic. (Co-Founder and Director). I'm also currently the Director of the Hack the Fog organization.
 - :bust_in_silhouette: [Alpha Phi Omega](https://www.apoez.org/), Currently pledging by doing service, hosting service events and fellowship events, and talking with current brothers and attending commitee meetings.
 ### Projects
 - :hammer: [JYL Toolbox](https://github.com/RafaelCenzano/JYL-site), a site developed with a **Flask** backend to help connect student leaders together and to give adult leaders a simple one stop website to post content, like upcoming meetings and events.
@@ -22,6 +22,7 @@ I'm a CS major at RPI who enjoys coding as a hobby and plans to pursue it as a c
 
 ### Past Experiences
 - :low_brightness: [Photon Commerce](https://www.photoncommerce.com), Software Engineer for 8 month at Photon Commerce a fintech startup working to automate finances and reduce errors that cost billions a year.
+- :cloud: [Hack the Cloud 2.0](https://cloud.hackthefog.com), [Hack the Fog's](https://www.hackthefog.com) **online hackathon** in response to the pandemic. (Co-Founder and Director). I'm also currently the Director of the Hack the Fog organization.
 - :computer: [Lowell Dev Club](https://www.lowelldev.club), a [**Hack Club**](https://hackclub.com) at my highschool. (Co-Founder and Co-President)
 - :bust_in_silhouette: [Japantown Youth Leaders](https://jcyc.org/jyl.htm), as a student leader I volunteer at events and create a service project every year resulting in over **100 volunteer hours** every school year.
 - :school_satchel: [Lowelldev.club](https://github.com/lowell-dev-club/www.lowelldev.club), a **Flask** site developed to provide information on <u>DevClub</u> and uses **Flask** and **Postgres** to allow creation of workshops and shortlinks and to display workshops and display markdown files for workshops.
