@@ -13,12 +13,13 @@ I'm a CS major at RPI who enjoys coding as a hobby and plans to pursue it as a c
 
 ##  I’m currently working on:
 - :mortar_board: [RPI Computer Science](https://science.rpi.edu/computer-science), Working on a Bachelors of Science in Computer Science at Rensselaer Polytechnic Institute.
-- :computer: [Amazon SDE Intern](https://www.amazon.jobs/en/jobs/1557929/software-development-engineer-internship-summer-2022-us), Working over the summer at Amazon.
+- :computer: [Amazon SDE Intern](https://www.amazon.jobs/en/jobs/1557929/software-development-engineer-internship-summer-2022-us), Working as an intern on the alexa prize team.
 ### Organizations
-- :bust_in_silhouette: [Alpha Phi Omega](https://www.apoez.org/), Currently pledging by doing service, hosting service events and fellowship events, and talking with current brothers and attending commitee meetings.
+- :bust_in_silhouette: [Alpha Phi Omega](https://www.apoez.org/), Brother and SVP working on large service projects. In my first year I did over 210 hours of service and plan to continue my service to the communitunity and continue to be of service to improving my chapter and RPI.
+- :bust_in_silhouette: [Food Recovery Network]([https://www.apoez.org/](https://www.foodrecoverynetwork.org/)), volunteer and secretary helping donate excess food from on-campus dining to local food shelters.
 ### Projects
 - :hammer: [JYL Toolbox](https://github.com/RafaelCenzano/JYL-site), a site developed with a **Flask** backend to help connect student leaders together and to give adult leaders a simple one stop website to post content, like upcoming meetings and events.
-- :star: [RafaelCenzano.com](https://github.com/RafaelCenzano/rafaelcenzano.com), a simple **Flask** site to display my work
+- :star: [RafaelCenzano.com](https://github.com/RafaelCenzano/rafaelcenzano.com), a simple **HTML**, **CSS**, **JS** site to display my work
 
 ### Past Experiences
 - :low_brightness: [Photon Commerce](https://www.photoncommerce.com), Software Engineer for 8 month at Photon Commerce a fintech startup working to automate finances and reduce errors that cost billions a year.
