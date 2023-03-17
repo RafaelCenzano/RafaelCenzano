@@ -13,11 +13,11 @@ I'm a CS major at RPI who enjoys coding as a hobby and plans to pursue it as a c
 
 ##  I’m currently working on:
 - :mortar_board: [RPI Computer Science](https://science.rpi.edu/computer-science), Working on a Bachelors of Science in Computer Science at Rensselaer Polytechnic Institute.
-- :computer: [Amazon SDE Intern]([https://www.amazon.jobs/en/jobs/1557929/software-development-engineer-internship-summer-2022-us](https://amazon.jobs/en/teams/internships-for-students)), I will be returning to Amazon for the Summer of 2023.
+- :computer: [Amazon SDE Intern](https://amazon.jobs/en/teams/internships-for-students), I will be returning to Amazon for the Summer of 2023.
 
 ### Organizations
 - :bust_in_silhouette: [Alpha Phi Omega](https://www.apoez.org/), President and National Student Advisor. During my time in Alpha Phi Omega I've done 480+ service hours and have led multiple small and large scale events. As President I work with all chapter officers to lead their respective programs and host succesful events for all of our members. As a National Student Advisor I work with students from every Region to advise the National President, Vice President, and Executive Director on the actions and direction of the national office.
-- :bust_in_silhouette: [Food Recovery Network]([https://www.apoez.org/](https://www.foodrecoverynetwork.org/)), volunteer and secretary helping donate excess food from on-campus dining to local food shelters.
+- :bust_in_silhouette: [Food Recovery Network](https://www.foodrecoverynetwork.org/), volunteer and secretary helping donate excess food from on-campus dining to local food shelters.
 
 ### Projects
 - :pencil: [Alpha Phi Omega, Epsilon Zeta Chapter Website](https://github.com/alpha-phi-omega-ez/apoez.org-flask), a brand new webite built on Flask, Jinja, HTML, CSS, and JS. The website has information on our chapter but also manages our lost and found records, backtest records, and loaner tech avalability.
