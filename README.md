@@ -13,7 +13,7 @@ I'm a CS major at RPI who enjoys coding as a hobby and plans to pursue it as a c
 
 ##  I’m currently working on:
 - :mortar_board: [RPI Computer Science](https://science.rpi.edu/computer-science), Working on a Bachelors of Science in Computer Science at Rensselaer Polytechnic Institute.
-- :computer: [Amazon SDE Intern](https://amazon.jobs/en/teams/internships-for-students), I will be returning to Amazon for the Summer of 2023.
+- :computer: [Amazon SDE Intern](https://amazon.jobs/en/teams/internships-for-students), Returned to Amazon to join the Amazon Music team Summer 2023
 
 ### Organizations
 - :bust_in_silhouette: [Alpha Phi Omega](https://www.apoez.org/), President and National Student Advisor. During my time in Alpha Phi Omega I've done 580+ service hours and have led multiple small and large scale events. As President I work with all chapter officers to lead their respective programs and host succesful events for all of our members. As a National Student Advisor I work with students from every Region to advise the National President, Vice President, and Executive Director on the actions and direction of the national office.
