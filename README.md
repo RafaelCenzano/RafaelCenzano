@@ -7,8 +7,6 @@ I'm a rising 3rd year CS major at RPI who enjoys coding as a hobby and plans to 
 ### Connect with me:
 - Email: contact@rafaelcenzano.com
 - Linkedin: [@Rafael Cenzano](https://www.linkedin.com/in/rafael-cenzano/)
-- Facebook: [@Rafael Cenzano](https://www.facebook.com/profile.php?id=100008046498255)
-- Instagram: [@raf.py](https://www.instagram.com/raf.py/)
 - Personal Site: [RafaelCenzano.com](https://rafaelcenzano.com)
 
 ##  I’m currently working on:
