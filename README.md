@@ -1,4 +1,4 @@
-# :snake: Rafael Cenzano :computer:
+# Rafael Cenzano
 I'm a 3rd year CS major at RPI who enjoys coding as a hobby and plans to pursue it as a career. I have worked primarily with Python and Flask but through my 1+ year of internship experience, I have picked up Java, SQL, and related libraries as well as experience with cloud resources on AWS.
 
 ![Top Stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=RafaelCenzano&show_icons=true&theme=radical)
