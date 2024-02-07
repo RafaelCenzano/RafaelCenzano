@@ -12,6 +12,7 @@ I'm a 3rd year CS major at RPI who enjoys coding as a hobby and plans to pursue 
 
 ##  I’m currently working on:
 - :mortar_board: [RPI Computer Science](https://science.rpi.edu/computer-science), Working on a Bachelor of Science in Computer Science at Rensselaer Polytechnic Institute.
+- Incoming Software Engineer Intern at MongoDB
 
 ### Organizations
 - :bust_in_silhouette: [Alpha Phi Omega](https://www.apoez.org/), President and National Student Advisor. During my time in Alpha Phi Omega, I've done 580+ service hours and have led multiple small and large-scale events. As President, I work with all chapter officers to lead their respective programs and host successful events for all of our members. As a National Student Advisor, I work with students from every Region to advise the National President, Vice President, and Executive Director on the actions and direction of the national office.
