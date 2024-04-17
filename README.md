@@ -19,7 +19,7 @@ I'm a 3rd year CS major at RPI who enjoys coding as a hobby and plans to pursue 
 - :bust_in_silhouette: [Food Recovery Network](https://www.foodrecoverynetwork.org/), President, helping donate excess food from on-campus dining to local food shelters.
 
 ### Projects
-- :microscope: [LabConnect](https://github.com/LabConnect-RCOS), a Rensselaer Center for Open Source project aimed at creating a website that connects undergraduate students to research positions on campus.
+- :microscope: [LabConnect](https://github.com/LabConnect-RCOS), a Rensselaer Center for Open Source project that I've been leading the Fall 2023 semester aimed at creating a website that connects undergraduate students to research positions on campus.
 - :pencil: [Alpha Phi Omega, Epsilon Zeta Chapter Website](https://github.com/alpha-phi-omega-ez/apoez.org-flask), a brand new website built on Flask, Jinja, HTML, CSS, and JS. The website has information on our chapter but also manages our lost and found records, backtest records, and loaner tech availability.
 - :hammer: [JYL Toolbox](https://github.com/RafaelCenzano/JYL-site), a site developed with a **Flask** backend to help connect student leaders together and to give adult leaders a simple one-stop website to post content, like upcoming meetings and events.
 - :star: [RafaelCenzano.com](https://github.com/RafaelCenzano/rafaelcenzano.com), a simple **HTML**, **CSS**, **JS** site to display my work
