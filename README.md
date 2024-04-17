@@ -6,7 +6,6 @@ I'm a 3rd year CS major at RPI who enjoys coding as a hobby and plans to pursue 
 ![Top Language's Used](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelcenzano&langs_count=4&layout=compact&theme=radical)
 
 ### Connect with me:
-- Email: contact@rafaelcenzano.com
 - Linkedin: [@Rafael Cenzano](https://www.linkedin.com/in/rafael-cenzano/)
 - Personal Site: [RafaelCenzano.com](https://rafaelcenzano.com)
 
