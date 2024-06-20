@@ -1,9 +1,7 @@
 # Rafael Cenzano
-I'm a 3rd year CS major at RPI who enjoys coding as a hobby and plans to pursue it as a career. I have worked primarily with Python and Flask but through my 1+ year of internship experience, I have picked up Java, SQL, and related libraries as well as experience with cloud resources on AWS.
+I'm a rising senior CS major at RPI who enjoys coding as a hobby and plans to pursue it as a career. I have worked primarily with Python and Flask but through my 1+ year of internship experience, I have picked up Java, SQL, and related libraries as well as experience with cloud resources on AWS.
 
 ![Top Stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=RafaelCenzano&show_icons=true&theme=radical)
-
-![Top Language's Used](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelcenzano&langs_count=4&layout=compact&theme=radical)
 
 ### Connect with me:
 - Linkedin: [@Rafael Cenzano](https://www.linkedin.com/in/rafael-cenzano/)
@@ -11,16 +9,16 @@ I'm a 3rd year CS major at RPI who enjoys coding as a hobby and plans to pursue 
 
 ##  I’m currently working on:
 - :mortar_board: [RPI Computer Science](https://science.rpi.edu/computer-science), Working on a Bachelor of Science in Computer Science at Rensselaer Polytechnic Institute.
-- Incoming Software Engineer Intern at MongoDB
+- Software Engineer Intern at MongoDB learning Go and React to improve services for customers using the Atlas Developer Service. My primary objective will be to create Go micro-service to handle backend X509 certificates for a more secure system.
 
 ### Projects
-- :microscope: [LabConnect](https://github.com/LabConnect-RCOS), a Rensselaer Center for Open Source project that I've been leading the Fall 2023 semester aimed at creating a website that connects undergraduate students to research positions on campus.
-- :pencil: [Alpha Phi Omega, Epsilon Zeta Chapter Website](https://github.com/alpha-phi-omega-ez/apoez.org-flask), a brand new website built on Flask, Jinja, HTML, CSS, and JS. The website has information on our chapter but also manages our lost and found records, backtest records, and loaner tech availability.
+- :microscope: [LabConnect](https://github.com/LabConnect-RCOS), a Rensselaer Center for Open Source project that I've been leading since the Fall 2023 semester aimed at creating a website that connects undergraduate students to research positions on campus.
+- :pencil: [Alpha Phi Omega, Epsilon Zeta Chapter Website](https://github.com/alpha-phi-omega-ez/apoez.org-flask), a brand new website built on Flask and React. The website has information on our chapter but also manages our lost and found records, backtest records, and loaner tech availability.
 - :hammer: [JYL Toolbox](https://github.com/RafaelCenzano/JYL-site), a site developed with a **Flask** backend to help connect student leaders together and to give adult leaders a simple one-stop website to post content, like upcoming meetings and events.
-- :star: [RafaelCenzano.com](https://github.com/RafaelCenzano/rafaelcenzano.com), a simple **HTML**, **CSS**, **JS** site to display my work
+- :star: [RafaelCenzano.com](https://github.com/RafaelCenzano/rafaelcenzano.com), a simple **HTML**, **CSS**, **JS** site to display my work.
 
 ### Organizations
-- :bust_in_silhouette: [Alpha Phi Omega](https://www.apoez.org/), Active Brother. During my time in Alpha Phi Omega, I've done 950+ service hours and have led multiple small and large-scale events. As President, I work with all chapter officers to lead their respective programs and host successful events for all of our members. As a National Student Advisor, I work with students from every Region to advise the National President, Vice President, and Executive Director on the actions and direction of the national office.
+- :bust_in_silhouette: [Alpha Phi Omega](https://www.apoez.org/), Active Brother. During my time in Alpha Phi Omega, I've completed 950+ service hours and have led multiple small and large-scale events. As President, I worked with all chapter officers to lead their respective programs and host successful events for all of our members. As a National Student Advisor, I worked with students from every Region to advise the National President, Vice President, and Executive Director on the actions and direction of the national office.
 - :bust_in_silhouette: [Food Recovery Network](https://www.foodrecoverynetwork.org/), President, helping donate excess food from on-campus dining to local food shelters.
 
 ### Awards and Honors
