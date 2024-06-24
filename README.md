@@ -9,7 +9,7 @@ I'm a rising senior CS major at RPI who enjoys coding as a hobby and plans to pu
 
 ##  I’m currently working on:
 - :mortar_board: [RPI Computer Science](https://science.rpi.edu/computer-science), Working on a Bachelor of Science in Computer Science at Rensselaer Polytechnic Institute.
-- Software Engineer Intern at MongoDB learning Go and React to improve services for customers using the Atlas Developer Service. My primary objective will be to create Go micro-service to handle backend X509 certificates for a more secure system.
+- Software Engineer Intern at [MongoDB](https://github.com/mongodb) learning Go and React to improve services for customers using the Atlas Developer Service. My primary objective will be to create Go micro-service to handle backend X509 certificates for a more secure system.
 
 ### Projects
 - :microscope: [LabConnect](https://github.com/LabConnect-RCOS), a Rensselaer Center for Open Source project that I've been leading since the Fall 2023 semester aimed at creating a website that connects undergraduate students to research positions on campus.
