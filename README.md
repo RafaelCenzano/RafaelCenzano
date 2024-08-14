@@ -9,7 +9,6 @@ I'm a rising senior CS major at RPI who enjoys coding as a hobby and plans to pu
 
 ##  I’m currently working on:
 - :mortar_board: [RPI Computer Science](https://science.rpi.edu/computer-science), Working on a Bachelor of Science in Computer Science at Rensselaer Polytechnic Institute.
-- Software Engineer Intern at [MongoDB](https://github.com/mongodb) learning Go and React to improve services for customers using the Atlas Developer Service. My primary project is to create a Go micro-service to handle backend X509 certificates for a more secure system utilizing gRPC.
 
 ### Projects
 - :microscope: [LabConnect](https://github.com/LabConnect-RCOS), a Rensselaer Center for Open Source project that I've been leading since the Fall 2023 semester aimed at creating a website that connects undergraduate students to research positions on campus.
@@ -27,6 +26,7 @@ I'm a rising senior CS major at RPI who enjoys coding as a hobby and plans to pu
 - :bust_in_silhouette: [Upsilon Pi Epsilon](https://www.cs.rpi.edu/~upe/), UPE is the computer science honor society recognizing high-performing students in technology majors.
 
 ### Past Experiences
+- Software Engineer Intern at [MongoDB](https://github.com/mongodb) Learned Go and React to improve services for customers using the Atlas App Service. My primary project was creating a Go micro-service to handle backend X509 certificates for a more secure system utilizing gRPC.
 - :computer: [Amazon SDE Intern](https://amazon.jobs/en/teams/internships-for-students), Returned to Amazon in Summer 2023 on the Alexa Music team. I updated multimodal Alexa devices to include background images while playing music and shipped the feature to production.
 - :computer: [Amazon SDE Intern](https://amazon.jobs/en/teams/internships-for-students), I worked on the Alexa Prize Engineering team to build a metrics dashboard. I modified and created data pipelines to process data from multiple sources to present in an Amazon Managed Grafana dashboard.
 - :low_brightness: [Photon Commerce](https://www.photoncommerce.com), Software Engineer Intern for 8 months at Photon Commerce a fintech startup working to automate finances and reduce errors that cost billions a year.
