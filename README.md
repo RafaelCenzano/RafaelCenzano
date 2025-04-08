@@ -1,7 +1,7 @@
 # Rafael Cenzano
 I'm a rising senior CS major at RPI who enjoys coding as a hobby and plans to pursue it as a career. I have worked primarily with Python and Flask but through my 1+ year of internship experience, I have picked up Java, SQL, and related libraries as well as experience with cloud resources on AWS.
 
-![Top Stats](https://github-readme-stats.vercel.app/api?username=RafaelCenzano&show_icons=true&theme=vue-dark)
+![Top Stats](https://github-readme-stats.vercel.app/api?username=RafaelCenzano&show_icons=true&theme=vue-dark&hide_rank=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage)
 
 ### Connect with me:
 - Linkedin: [@Rafael Cenzano](https://www.linkedin.com/in/rafael-cenzano/)
