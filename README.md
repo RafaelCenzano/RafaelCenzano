@@ -18,6 +18,6 @@ I'm a Software Engineer 2 at MongoDB currently rotating over a few teams; Atlas 
 
 ### Past Experiences
 - 🥭 Software Engineer Intern at [MongoDB](https://github.com/mongodb) Learned Go and React to improve services for customers using the Atlas App Service. My primary project was creating a Go micro-service to handle backend X509 certificates for a more secure system utilizing gRPC.
-- 🎵 [Amazon SDE Intern](https://amazon.jobs/en/teams/internships-for-students), Returned to Amazon in Summer 2023 on the Alexa Music team. I updated multimodal Alexa devices to include background images while playing music and shipped the feature to production.
+- 🎵 [Amazon SDE Intern](https://amazon.jobs/en/teams/internships-for-students), Returned to Amazon in Summer 2023 on the Alexa Music team. I updated multimodal Alexa devices to include background images while playing music and shipped the feature to production for millions of customers.
 - 💻 [Amazon SDE Intern](https://amazon.jobs/en/teams/internships-for-students), I worked on the Alexa Prize Engineering team to build a metrics dashboard. I modified and created data pipelines to process data from multiple sources to present in an Amazon Managed Grafana dashboard.
 - 🔅 [Photon Commerce](https://www.photoncommerce.com), Software Engineer Intern for 8 months at Photon Commerce a fintech startup working to automate mapping data from OCR output to structured data.
