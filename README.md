@@ -1,14 +1,14 @@
 # Rafael Cenzano
 I'm a Software Engineer 2 at MongoDB currently rotating over a few teams; Atlas Stream Processing Platform, Atlas Foundational Services, Go Library. I have worked primarily with Python and Typescript on personal projects but through my professional experience, I have picked up Go, Java, SQL, and related libraries as well as experience with cloud resources on AWS.
 
-![Top Stats](https://github-readme-stats.vercel.app/api?username=RafaelCenzano&show_icons=true&theme=vue-dark&hide_rank=true)
+<!--![Top Stats](https://github-readme-stats.vercel.app/api?username=RafaelCenzano&show_icons=true&theme=vue-dark&hide_rank=true)-->
 
 ### Connect with me:
 - Linkedin: [@Rafael Cenzano](https://www.linkedin.com/in/rafael-cenzano/)
 - Personal Site: [RafaelCenzano.com](https://rafaelcenzano.com)
 
 ##  I’m currently working on:
-- 🥭 [Software Engineer 2](https://github.com/mongodb) at MongoDB, currently rotating over a few teams; Atlas Stream Processing Platform, Atlas Foundational Services, and Go Library.
+- 🥭 [Software Engineer 2](https://www.mongodb.com/) at MongoDB, currently rotating over a few teams; Atlas Stream Processing Platform, Atlas Foundational Services, and Go Library.
 - 🖥️ Considering some potential FOSS projects
 
 ### Projects
